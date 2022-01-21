@@ -1,0 +1,3 @@
+[submodule "submodules/UnorderedRedis"]
+	path = submodules/UnorderedRedis
+	url = https://github.com/aimar24/UnorderedRedis
